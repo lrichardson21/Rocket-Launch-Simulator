@@ -1,4 +1,4 @@
-# Rocket-Launch-SImulator
+# Rocket-Launch-Simulator
 #README.md
 Final project for CSC 2280
 
