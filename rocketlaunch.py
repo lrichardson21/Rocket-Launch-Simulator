@@ -68,7 +68,7 @@ def main():
                 thrust = 12.7
                 impulse = 19.3
                 break
-        elif motorman[0:2] == "Ap":
+        elif motorman[0:2] == "Ap": #apogee motors
             motorman = "Apogee"
             motormodel = input("Is your Apogee motor model E6 or F10 >> ")
             if motormodel == "E6":
@@ -85,7 +85,7 @@ def main():
                 thrust = 10.6
                 impulse = 74.3
                 break
-        elif motorman[0] == "E":
+        elif motorman[0] == "E": #Estes motors
             motorman = "Estes"
             motormodel = input("Is your Estes motor model C5 or C6? >> ")
             if motormodel == "C5":
