@@ -180,11 +180,11 @@ def main():
             height_left = str(apogee - height)
             if height_left[0] == '-':
                 below = abs(float(height_left))
-                print("Your rocket was ", round(below, 3), " meters below apogee.")
+                print("Your rocket was ", round(below, 3), " meters below target apogee.")
                 print()
             else:
                 height_left = float(height_left)
-                print('Your rocket was ', round(height_left, 3), " meters above apogee.")
+                print('Your rocket was ', round(height_left, 3), " meters above target apogee.")
                 print()
         
         #altitude bar graph
