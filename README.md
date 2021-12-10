@@ -5,7 +5,7 @@ Final project for CSC 2280
 Instructrions for running rocketlaunch.py
 
 Here is example input for a rocket I worked on in highschool:
-Note: This is expained when the program is run but units should not be icluded when typing in input.
+Note: This is expained when the program is run but units should not be included when typing in input.
 
 Targeted height = 246 m
 Cross sectional area = 0.000483 m^2
